@@ -38,7 +38,7 @@ The script calls `focus_edge_profile`. If Edge already has a window for that pro
 
 Hotkeys are global. They run the command even when Raycast is in the background.
 
-1. Open Raycast and select the command (the `@raycast.title` value, for example `CMP` or `Evidi`).
+1. Open Raycast and select the command (the `@raycast.title` value, for example `Evidi`).
 2. Press **⌘K** and choose **Configure Command**, then **Set Hotkey**.
 3. Press the key combination and confirm with **Return**.
 
